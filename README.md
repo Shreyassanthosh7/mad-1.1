@@ -19,8 +19,8 @@ To install and run Android applications using Android Studio, This project aims 
 ## PROGRAM:
 ```
 Program to print the list of item.
-Developed by:RIFNA SHERINE A
-Registration Number :212222040133
+Developed by:SHREYAS S
+Registration Number :212222040155
 ```
 
 ## ALGORITHM:
